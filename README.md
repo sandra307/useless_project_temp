@@ -48,7 +48,7 @@ For Software:
 The project gives user a choice to select a photo, crop the image accordingly and then paste it in the face of 
 a Leonardo Da Vinci painting.
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
