@@ -1,33 +1,34 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [DAVINCI_1] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Reolaski]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sandra S] - [TKM College of Engineering, KolLam]
+- Member 2: [Gokulraj N J] - [TKM College of Engineering, KolLam]
+- Member 3: [Hadhi Ismail] - [TKM College of Engineering, KolLam]
 
 ### Project Description
-[2-3 lines about what your project does]
+A project which shows how important you are that Leonardo Da Vinci himself decided to paint your portrait..
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Leonardo Da Vinci was not given the opportunity and honours to paint me.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We Reolaski's, feeling for our buddy Leo, decided to morph our face into his famous paintings...
+He is really delighted that we could solve an issue he couldnt for centuries...
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Dart
+- Flutter
+- image_picker,image_cropper
+  
 
 For Hardware:
 - [List main components]
@@ -35,19 +36,20 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:Could implement the application in an android emulator...
 # Installation
-[commands]
+Install flutter framework 
 
 # Run
 [commands]
-
+Run flutter
 ### Project Documentation
 For Software:
-
+The project gives user a choice to select a photo, crop the image accordingly and then paste it in the face of 
+a Leonardo Da Vinci painting.
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
